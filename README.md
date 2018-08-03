@@ -13,8 +13,8 @@ Right now code is terrible and unreadble but soon I will refactor it. Or you can
 
 ### Pythagoras tree
 First fractal that I wrote ever (even first recursive based vizual program). Every 1.5 seconds it generated new image.
-[image of fractal](https://github.com/D34DStone/Fractals/blob/master/resources/pifagor_tree.png)
+![image of fractal](https://github.com/D34DStone/Fractals/blob/master/resources/pifagor_tree.png)
 
 ### Cubisn(easy)
 Another recursive based fractal. There is nothing interesting, but you can play with constants in begin of program
-[image of fractal](https://github.com/D34DStone/Fractals/blob/master/resources/cubism.png)
+![image of fractal](https://github.com/D34DStone/Fractals/blob/master/resources/cubism.png)
